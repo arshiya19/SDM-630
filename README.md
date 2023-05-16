@@ -16,7 +16,7 @@
 
 3. PULL REQUEST - [Rebase Frontend with main branch - Sale page table](https://github.com/ChicoState/PantryNode/pull/125) 
 
-COMMIT - [Adding quantity field to the table](https://github.com/ChicoState/PantryNode/commit/1d401ae92ae64d976d6a2a750291fb3f4999cb2e)
+   COMMIT - [Adding quantity field to the table](https://github.com/ChicoState/PantryNode/commit/1d401ae92ae64d976d6a2a750291fb3f4999cb2e)
 
 4. REVIEWED & ACCEPTED PR - [Reviewed and accepted a pull request related to the correct behavior of the Quagga camera.](https://github.com/ChicoState/PantryNode/pull/187)
 
@@ -40,9 +40,9 @@ COMMIT - [Adding quantity field to the table](https://github.com/ChicoState/Pant
     Removed redundant code  
 
 
-3. PULL REQUEST - [https://github.com/ChicoState/PantryNode/pull/188](https://github.com/ChicoState/PantryNode/pull/188) 
+3. PULL REQUEST - [https://github.com/ChicoState/PantryNode/pull/188](https://github.com/ChicoState/PantryNode/pull/188)   
 COMMIT - [Adding Category Filter to the Expiry Page](https://github.com/ChicoState/PantryNode/commit/c1365b9d6461871eeccd1c04003297595e9d4276)
-- 3 weeks ago
+
 
 
 4. REVIEWED PR - [Reviewed a pull request for updating the readme file.](https://github.com/ChicoState/PantryNode/pull/220) 
